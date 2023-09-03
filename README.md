@@ -1,7 +1,7 @@
 # Analyzing Historical Stock/Revenue Data and Building a Dashboard
 # https://jupyter.org/
-## Description:
-# Extracting essential data from a dataset and displaying it is a necessary part of data science.
+# Description:
+## Extracting essential data from a dataset and displaying it is a necessary part of data science.
 ## Using the yfinance Library to Extract Stock Data
 Yfinance is a Python library that provides convenient access to the Yahoo Finance API. It allows users to download historical stock data, get real-time stock quotes, and obtain information about stock symbols, such as company name and stock exchange.
 Using the Ticker module we can create an object that will allow us to access functions to extract data. To do this we need to provide the ticker symbol for the stock, here the company is Apple and the ticker symbol is AAPL.
