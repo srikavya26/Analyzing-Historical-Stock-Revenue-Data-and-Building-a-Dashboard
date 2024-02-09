@@ -11,8 +11,6 @@ Using the Ticker module we can create an object that will allow us to access fun
 ```
 import yfinance as yf
 
-### Download historical data for a stock
-
 msft = yf.Ticker("MSFT")
 msft_data = msft.history(period="max")
 ### Display the downloaded data
