@@ -1,6 +1,6 @@
-## Analyzing Historical Stock/Revenue Data and Building a Dashboard
-### https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
-### https://jupyter.org/
+### Analyzing Historical Stock/Revenue Data and Building a Dashboard
+##### https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
+##### https://jupyter.org/
 
 ### Description:
 ### Extracting essential data from a dataset and displaying it is a necessary part of data science.
